@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am a master student at the Chemistry and Chemical Engineering Section of [EPFL](https://www.epfl.ch/en/).
+
+ - I'm very interested in computational chemistry, espically in _ab initio_ calculation, its speed-up methods and its application to biological systems.
+ - I'm willing to learn machine learning techniques and apply it to my future researches on chemistry.
+ - I'm currently in an internship of [QuanMol Tech](https://quanmol.com/).
+ - I hold a honor bachelor degree of chemistry from Fudan University.
+ - I love cooking🍳\!
 <!--
 **GardevoirX/GardevoirX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
