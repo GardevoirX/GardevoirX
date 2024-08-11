@@ -9,7 +9,7 @@ I am a master student at the Chemistry and Chemical Engineering Section of [EPFL
  - I love cooking🍳\!
 
 ## GitHub Stats
-[![GardevoirX's GitHub stats](https://github-readme-stats.vercel.app/api?username=GardevoirX)](https://github.com/anuraghazra/github-readme-stats)
+[![GardevoirX's GitHub stats](https://github-readme-stats-six-rust-47.vercel.app/api?username=GardevoirX)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GardevoirX/GardevoirX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
