@@ -4,7 +4,7 @@ I am a master student at the Chemistry and Chemical Engineering Section of [EPFL
 
  - I'm very interested in computational chemistry, especially in _ab initio_ calculation, its speed-up methods and its application to biological systems.
  - I'm willing to learn machine learning techniques and apply them to my future research on chemistry.
- - I'm currently in an internship at [QuanMol Tech](https://quanmol.com/).
+ - I interned at [QuanMol Tech](https://quanmol.com/) as computational chemistry scientist for more than two years.
  - I hold an honor bachelor degree in chemistry from [Fudan University](https://www.fudan.edu.cn/en/).
  - I love cooking🍳\!
 
